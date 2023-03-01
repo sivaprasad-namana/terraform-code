@@ -1,0 +1,7 @@
+
+*.hcl
+*.md
+*.0
+*.1
+.DS_Store
+*.backup
